@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="film_list">Список фильмов</string>
+    <string name="switchToFavorite">Избранное</string>
+    <string name="close">Закрыть</string>
+</resources>
