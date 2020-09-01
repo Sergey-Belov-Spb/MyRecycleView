@@ -168,9 +168,6 @@ class MainActivity : AppCompatActivity() {
         recycler.addItemDecoration(MyItemDecoration(20))
         recycler.itemAnimator = MyItemAnimator()
 
-
-
-
         /*class CustomItenDecoration(context: Context, orientation: Int) :DividerItemDecoration(context,orientation) {
             override fun getItemOffsets(
                 outRect: Rect,
@@ -199,7 +196,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
 private fun Intent.putParcelableArrayListExtra(s: String, itemsFilmsFavorite: MutableList<FilmItem>) {
-
 }
